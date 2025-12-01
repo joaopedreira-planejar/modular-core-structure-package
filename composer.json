@@ -2,7 +2,7 @@
     "$schema": "https://getcomposer.org/schema.json",
     "name": "joaopedreira-planejar/laravel-core-structure",
     "type": "project",
-    "description": "Starter Laravel structure.",
+    "description": "Starter Laravel application with Vue, Inertia, Fortify, Octane, and core structure.",
     "keywords": [
         "laravel",
         "framework"

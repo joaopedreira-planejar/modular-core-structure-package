@@ -1,8 +1,8 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/vue-starter-kit",
+    "name": "joaopedreira-planejar/laravel-core-structure",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "Starter Laravel structure.",
     "keywords": [
         "laravel",
         "framework"
